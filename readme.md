@@ -46,7 +46,7 @@ const pool = require('pg-pool-singleton')
 
 ## Caveats
 
-This module does not provide any connection object or string into the constructor, so it only works when using the [https://www.postgresql.org/docs/current/static/libpq-envars.html](postgres environment variables)
+This module does not provide any connection object or string into the constructor, so it only works when using the [postgres environment variables](https://www.postgresql.org/docs/current/static/libpq-envars.html)
 
 ## License
 
