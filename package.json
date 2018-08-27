@@ -1,0 +1,22 @@
+{
+  "name": "pg-pool-singleton",
+  "version": "0.0.1",
+  "description": "Exports the object created from `new Pool()`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "pg": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswaters/pg-pool-singleton.git"
+  },
+  "author": "Tyler Waters <tyler.waters@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/tswaters/pg-pool-singleton/issues"
+  },
+  "homepage": "https://github.com/tswaters/pg-pool-singleton#readme"
+}
